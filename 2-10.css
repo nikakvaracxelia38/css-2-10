@@ -1,0 +1,447 @@
+#light {
+    max-width: 1604px;
+    padding: 96px;
+    background: #E2F7FF;
+    margin: 0 auto
+}
+
+#night {
+    max-width: 1216px;
+    margin: 0 auto;
+    text-align: centerr;
+}
+
+#max {
+    max-width: 1216px;
+}
+
+#Olivia {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px
+}
+
+#review {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+}
+
+#managers {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px
+}
+
+#design {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    cursor: pointer;
+}
+
+#Research {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    cursor: pointer;
+}
+
+#Presentation {
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    cursor: pointer;
+}
+
+#baker {
+    max-width: 384px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 64px;
+}
+
+#Phoenix {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#models {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#Mental {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#Product {
+    color: #026AA2;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    cursor: pointer;
+}
+
+#tools {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    cursor: pointer;
+}
+
+#SaaS {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    cursor: pointer;
+}
+
+#simple {
+    max-width: 384px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+    margin-top: 64px;
+}
+
+#rise {
+    max-width: 360px;
+}
+
+#Lana {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#Building {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#them {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#Development {
+    color: #067647;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    cursor: pointer;
+}
+
+#Tools {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    cursor: pointer;
+}
+
+#point {
+    max-width: 384px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+    margin-top: 64px;
+}
+
+#Whitten {
+    max-width: 330px;
+}
+
+#Alec {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#lessons {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#Like {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#Leadership {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    cursor: pointer;
+}
+
+#Management {
+    color: #363F72;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+}
+
+#Super {
+    max-width: 384px;
+    margin-top: 48px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#Demi {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#models {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#complex {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#relationships {
+    color: #026AA2;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+}
+
+#Research {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    cursor: pointer;
+}
+
+#Frameworks {
+    color: #B93815;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+}
+
+#into {
+    max-width: 384px;
+    margin-top: 48px;
+    margin-left: 32px;
+    display: inline-block;
+    text-align: top;
+}
+
+#Candice {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#wireframing {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#Learn {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#best {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#Research {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+}
+
+#daylight {
+    max-width: 384px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+    margin-top: 48px;
+}
+
+#Natali {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#better {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#designs {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#shop{
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#buy {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+}
